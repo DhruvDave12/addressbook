@@ -92,4 +92,6 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
  * maven-ant-tasks-2.1.3.jar
 * Adjust paths in build.xml/build.properties as per your local configuration
 
+CHANING THE README TO CHECK IF THE BUILDCOMPILE JOB IS TRIGGERED OR NOT
+
 *** End of documentation
